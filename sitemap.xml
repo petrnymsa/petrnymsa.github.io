@@ -3,75 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.petrnymsa.cz/post/foo/</loc>
+    <loc>//www.petrnymsa.cz/post/foo/</loc>
     <lastmod>2018-04-29T15:28:21+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.petrnymsa.cz/tutorial/getting-started/</loc>
+    <loc>//www.petrnymsa.cz/tutorial/getting-started/</loc>
     <lastmod>2016-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.petrnymsa.cz/about/</loc>
+    <loc>//www.petrnymsa.cz/about/</loc>
     <lastmod>2015-07-28T09:51:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.petrnymsa.cz/post/welcome/</loc>
+    <loc>//www.petrnymsa.cz/post/welcome/</loc>
     <lastmod>2015-07-28T09:32:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.petrnymsa.cz/tags/blog/</loc>
+    <loc>//www.petrnymsa.cz/tags/blog/</loc>
     <lastmod>2015-07-28T09:32:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.petrnymsa.cz/tags/hugo/</loc>
+    <loc>//www.petrnymsa.cz/tags/hugo/</loc>
     <lastmod>2016-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.petrnymsa.cz/</loc>
+    <loc>//www.petrnymsa.cz/</loc>
     <lastmod>2018-04-29T15:28:21+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.petrnymsa.cz/post/</loc>
+    <loc>//www.petrnymsa.cz/post/</loc>
     <lastmod>2018-04-29T15:28:21+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.petrnymsa.cz/tags/series/</loc>
+    <loc>//www.petrnymsa.cz/tags/series/</loc>
     <lastmod>2016-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.petrnymsa.cz/tags/</loc>
+    <loc>//www.petrnymsa.cz/tags/</loc>
     <lastmod>2015-07-28T09:32:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.petrnymsa.cz/tags/tutorial/</loc>
+    <loc>//www.petrnymsa.cz/tags/tutorial/</loc>
     <lastmod>2016-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.petrnymsa.cz/tutorial/</loc>
+    <loc>//www.petrnymsa.cz/tutorial/</loc>
     <lastmod>2016-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.petrnymsa.cz/tutorials/</loc>
+    <loc>//www.petrnymsa.cz/tutorials/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://www.petrnymsa.cz/</link>
+    <link>//www.petrnymsa.cz/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Apr 2018 15:28:21 +0200</lastBuildDate>
     
-	<atom:link href="https://www.petrnymsa.cz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//www.petrnymsa.cz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Foo</title>
-      <link>https://www.petrnymsa.cz/post/foo/</link>
+      <link>//www.petrnymsa.cz/post/foo/</link>
       <pubDate>Sun, 29 Apr 2018 15:28:21 +0200</pubDate>
       
-      <guid>https://www.petrnymsa.cz/post/foo/</guid>
+      <guid>//www.petrnymsa.cz/post/foo/</guid>
       <description> Test post </description>
     </item>
     
     <item>
       <title>Getting Started With hugo-geo</title>
-      <link>https://www.petrnymsa.cz/tutorial/getting-started/</link>
+      <link>//www.petrnymsa.cz/tutorial/getting-started/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.petrnymsa.cz/tutorial/getting-started/</guid>
+      <guid>//www.petrnymsa.cz/tutorial/getting-started/</guid>
       <description>&lt;p&gt;Setting up and configuring hugo-geo is as simple as changing a few values in your site &lt;code&gt;config.toml&lt;/code&gt;. Lets look at this example site&amp;rsquo;s config and go over what
 each of hugo-geo&amp;rsquo;s site &lt;code&gt;[params]&lt;/code&gt; do.&lt;/p&gt;
 
@@ -36,19 +36,19 @@ each of hugo-geo&amp;rsquo;s site &lt;code&gt;[params]&lt;/code&gt; do.&lt;/p&gt
     
     <item>
       <title>About Me</title>
-      <link>https://www.petrnymsa.cz/about/</link>
+      <link>//www.petrnymsa.cz/about/</link>
       <pubDate>Tue, 28 Jul 2015 09:51:51 -0400</pubDate>
       
-      <guid>https://www.petrnymsa.cz/about/</guid>
+      <guid>//www.petrnymsa.cz/about/</guid>
       <description>This placeholder page could be your &amp;ldquo;about me&amp;rdquo; page, where you detail your contact information, portfolio pieces, and describe yourself and your goals.</description>
     </item>
     
     <item>
       <title>Welcome to Hugo-Geo!</title>
-      <link>https://www.petrnymsa.cz/post/welcome/</link>
+      <link>//www.petrnymsa.cz/post/welcome/</link>
       <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
       
-      <guid>https://www.petrnymsa.cz/post/welcome/</guid>
+      <guid>//www.petrnymsa.cz/post/welcome/</guid>
       <description>Welcome to hugo-geo, a resposive theme for the Hugo static site generator. Hugo is designed for post and tutorial sections, and is perfect for personal portfolio or blog sites.
 Why don&amp;rsquo;t you check out the Getting Started Tutorial and find out how you can use hugo-geo and customize it to your liking.</description>
     </item>
