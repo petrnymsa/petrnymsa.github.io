@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>https://petrnymsa.github.io/tags/</link>
+    <link>https://www.petrnymsa.cz/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Jul 2015 09:32:45 -0400</lastBuildDate>
     
-	<atom:link href="https://petrnymsa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.petrnymsa.cz/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>https://petrnymsa.github.io/tags/blog/</link>
+      <link>https://www.petrnymsa.cz/tags/blog/</link>
       <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
       
-      <guid>https://petrnymsa.github.io/tags/blog/</guid>
+      <guid>https://www.petrnymsa.cz/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://petrnymsa.github.io/tags/hugo/</link>
+      <link>https://www.petrnymsa.cz/tags/hugo/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://petrnymsa.github.io/tags/hugo/</guid>
+      <guid>https://www.petrnymsa.cz/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Series</title>
-      <link>https://petrnymsa.github.io/tags/series/</link>
+      <link>https://www.petrnymsa.cz/tags/series/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://petrnymsa.github.io/tags/series/</guid>
+      <guid>https://www.petrnymsa.cz/tags/series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>https://petrnymsa.github.io/tags/tutorial/</link>
+      <link>https://www.petrnymsa.cz/tags/tutorial/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://petrnymsa.github.io/tags/tutorial/</guid>
+      <guid>https://www.petrnymsa.cz/tags/tutorial/</guid>
       <description></description>
     </item>
     
