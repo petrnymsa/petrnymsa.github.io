@@ -17,8 +17,10 @@ $(document).ready(function() {
 	// should be untouched
 	$("a").each(function(i, el) {
 		var href = $(el).attr("href");
-		
-		if (typeof href === "string" && href.indexOf(window.location.origin) === -1 && "/.#".indexOf(href[0]) === -1) {
+		// avoid from config //baseUrl
+		var baseHrefUrl = "//" + window.location.hostname;
+		if(
+		if (typeof href === "string" && href.indexOf(window.location.origin) === -1 && "/.#".indexOf(href[0]) === -1 && href.startsWith(baseHrefUrl) === false) {
 			$(el).attr("target", "_blank");
 		}
 	});
