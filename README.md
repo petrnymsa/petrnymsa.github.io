@@ -1,3 +1,0 @@
-# petrnymsa.github.io
-
-test
