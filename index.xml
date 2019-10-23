@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Petr Nymsa</title>
@@ -6,20 +6,9 @@
     <description>Recent content on Petr Nymsa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2015 09:51:51 -0400</lastBuildDate>
     
 	<atom:link href="//www.petrnymsa.cz/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Kdo jsem</title>
-      <link>//www.petrnymsa.cz/about/</link>
-      <pubDate>Tue, 28 Jul 2015 09:51:51 -0400</pubDate>
-      
-      <guid>//www.petrnymsa.cz/about/</guid>
-      <description>Celým jménem Petr Nymsa, aktuálně na plný úvazek studující Fakultu informačních technologií na ČVUT v Praze. Kromě studia se živím jako „Software developer“ (čti programátor || vývojář) pracující převážně na platformě .NET a denním chlebem je jazyk C#. Také si hraji s technologiemi a jazyky jako Python, C++, herním enginem Godot anebo se statickým generátorem stránek Hugo. Ostatně tyto webovky jej využívají.
-Od dob, co jsem začal studovat SŠaVOŠ Aplikované kybernetiky s.</description>
-    </item>
     
   </channel>
 </rss>
